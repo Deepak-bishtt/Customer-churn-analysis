@@ -14,7 +14,7 @@ Data Sources: Integration with various data sources (e.g., SQL databases, Excel 
 Data Transformation: Power Query for data cleaning and preparation
 DAX: Data Analysis Expressions for creating calculated columns and measures
 
-Key Features:
+# Key Features
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
 📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
@@ -28,5 +28,5 @@ Improve customer satisfaction: Understand customer needs better for better servi
 Make data-driven decisions: Use insights to make better choices for keeping customers happy.
 ![Screenshot (157)](https://github.com/user-attachments/assets/c700f2ef-0990-4a4f-bd83-4badb0cfea47)
 
-Key Insights:
+# Key Insights
 ![Screenshot (154)](https://github.com/user-attachments/assets/20a8aaed-9fa7-416d-a82d-e68e4f5d74bd)
