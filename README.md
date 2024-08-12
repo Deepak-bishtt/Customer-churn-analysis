@@ -15,7 +15,8 @@ Data Transformation: Power Query for data cleaning and preparation
 DAX: Data Analysis Expressions for creating calculated columns and measures
 
 # Built with
-1 Power BI Desktop: 
+1 Power BI Desktop:
+
 2 Excel:
 
 
