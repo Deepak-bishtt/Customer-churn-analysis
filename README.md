@@ -18,3 +18,14 @@ Key Features:
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
 📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
+![Screenshot (156)](https://github.com/user-attachments/assets/9976644d-4c75-4309-9c92-eb6f9590e118)
+
+
+
+Benefits:
+Reduce customer loss: Identify and help customers at risk to keep them longer.
+Improve customer satisfaction: Understand customer needs better for better service.
+Make data-driven decisions: Use insights to make better choices for keeping customers happy.
+![Screenshot (157)](https://github.com/user-attachments/assets/c700f2ef-0990-4a4f-bd83-4badb0cfea47)
+
+
