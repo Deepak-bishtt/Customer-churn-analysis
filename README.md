@@ -14,6 +14,11 @@ Data Sources: Integration with various data sources (e.g., SQL databases, Excel 
 Data Transformation: Power Query for data cleaning and preparation
 DAX: Data Analysis Expressions for creating calculated columns and measures
 
+# Built with
+Power BI Desktop
+Excel
+
+
 # Key Features
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
