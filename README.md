@@ -22,10 +22,11 @@ Key Features:
 
 
 
-Benefits:
+# Benefits
 Reduce customer loss: Identify and help customers at risk to keep them longer.
 Improve customer satisfaction: Understand customer needs better for better service.
 Make data-driven decisions: Use insights to make better choices for keeping customers happy.
 ![Screenshot (157)](https://github.com/user-attachments/assets/c700f2ef-0990-4a4f-bd83-4badb0cfea47)
 
-
+Key Insights:
+![Screenshot (154)](https://github.com/user-attachments/assets/20a8aaed-9fa7-416d-a82d-e68e4f5d74bd)
